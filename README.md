@@ -1,4 +1,3 @@
-Here's a README file for the loadout menu on GitHub:
 
 ---
 
